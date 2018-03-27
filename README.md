@@ -1,6 +1,13 @@
 #
 www.CUNYStudentPost.com
 
+Update 3/27/2018
+
+
+![screen shot 2018-03-27 at 4 19 13 pm](https://user-images.githubusercontent.com/19642027/37992785-b74aedc4-31da-11e8-83b1-e83c71d2b4c3.png)
+![screen shot 2018-03-27 at 4 19 31 pm](https://user-images.githubusercontent.com/19642027/37992786-b755da40-31da-11e8-8b2c-0aa7aad48f59.png)
+![screen shot 2018-03-27 at 4 19 36 pm](https://user-images.githubusercontent.com/19642027/37992787-b760441c-31da-11e8-8db5-d4fc8bb0a176.png)
+
 About me page!
 ![screen shot 2018-03-25 at 9 05 58 am](https://user-images.githubusercontent.com/19642027/37875349-c2c0ed32-300b-11e8-8413-cb8122cf53b1.png)
 
