@@ -1,6 +1,10 @@
 #
 www.CUNYStudentPost.com
 
+Dispaly attachments on index (landing page) 3/31/2018
+
+![screen shot 2018-03-31 at 12 21 38 pm](https://user-images.githubusercontent.com/19642027/38165214-242b61b6-34de-11e8-9462-79ab5495e0de.png)
+
 Bigger Avatar
 Hover.... 
 
