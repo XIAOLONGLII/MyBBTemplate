@@ -1,7 +1,17 @@
 #
 www.CUNYStudentPost.com
 
+Bigger Avatar
+Hover.... 
+
+![screen shot 2018-03-31 at 9 26 45 am](https://user-images.githubusercontent.com/19642027/38163655-b73b8f30-34c5-11e8-8f4e-d94b6c7b7499.png)
+![screen shot 2018-03-31 at 9 26 51 am](https://user-images.githubusercontent.com/19642027/38163656-b744863a-34c5-11e8-8082-6c152b74c822.png)
+
+
 Update 3/27/2018
+
+
+
 
 
 ![screen shot 2018-03-27 at 4 19 13 pm](https://user-images.githubusercontent.com/19642027/37992785-b74aedc4-31da-11e8-83b1-e83c71d2b4c3.png)
