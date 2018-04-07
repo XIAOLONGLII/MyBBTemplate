@@ -1,6 +1,10 @@
 #
 www.CUNYStudentPost.com
 
+4/6/2018, new design, a relax fresh design. (Previous design didn't work well on the phone)
+
+![screen shot 2018-04-07 at 9 41 37 am](https://user-images.githubusercontent.com/19642027/38455582-1e2df278-3a48-11e8-9061-8a3fbe4ca0a5.png)
+![screen shot 2018-04-07 at 9 41 50 am](https://user-images.githubusercontent.com/19642027/38455583-1e3804c0-3a48-11e8-94fa-597a124ff854.png)
 Changed the layput 4/5/2018
 ![screen shot 2018-04-06 at 12 05 09 am](https://user-images.githubusercontent.com/19642027/38403007-340dda7e-392e-11e8-9610-f145848902fb.png)
 
