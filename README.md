@@ -6,6 +6,9 @@ www.CUNYStudentPost.com
 Fix the collpase.png from .gif
 Put Latest post on the right side! 
 
+![screen shot 2018-04-08 at 1 31 03 am](https://user-images.githubusercontent.com/19642027/38463601-8b5f85e4-3acc-11e8-9044-003ee2e98bf2.png)
+
+
 ![screen shot 2018-04-08 at 12 45 30 am](https://user-images.githubusercontent.com/19642027/38463318-34dff650-3ac6-11e8-8137-20ff84658f31.png)
 
 
