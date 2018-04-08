@@ -1,6 +1,14 @@
 #
 www.CUNYStudentPost.com
 
+4/8/2018
+
+Fix the collpase.png from .gif
+Put Latest post on the right side! 
+
+![screen shot 2018-04-08 at 12 45 30 am](https://user-images.githubusercontent.com/19642027/38463318-34dff650-3ac6-11e8-8137-20ff84658f31.png)
+
+
 4/6/2018, new design, a relax fresh design. (Previous design didn't work well on the phone)
 
 ![screen shot 2018-04-07 at 9 41 37 am](https://user-images.githubusercontent.com/19642027/38455582-1e2df278-3a48-11e8-9061-8a3fbe4ca0a5.png)
