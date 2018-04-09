@@ -2,7 +2,7 @@
 www.CUNYStudentPost.com
 
 4/9/2018
-
+Same header now. 
 ![screen shot 2018-04-09 at 3 05 43 pm](https://user-images.githubusercontent.com/19642027/38517310-8c00ba86-3c07-11e8-941a-48f120eace12.png)
 ![screen shot 2018-04-09 at 3 05 51 pm](https://user-images.githubusercontent.com/19642027/38517311-8c0e35e4-3c07-11e8-9ad2-f42c4f29131a.png)
 
