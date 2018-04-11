@@ -1,6 +1,11 @@
 #
 www.CUNYStudentPost.com
 
+4/11 YouTube Video worked fun now! 
+
+![screen shot 2018-04-11 at 6 27 25 am](https://user-images.githubusercontent.com/19642027/38611381-8335897c-3d51-11e8-9681-0597f9aec72a.png)
+
+
 4/9/2018
 Same header now. 
 ![screen shot 2018-04-09 at 3 05 43 pm](https://user-images.githubusercontent.com/19642027/38517310-8c00ba86-3c07-11e8-941a-48f120eace12.png)
