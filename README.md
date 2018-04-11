@@ -1,6 +1,10 @@
 #
 www.CUNYStudentPost.com
 
+4/11 msg come to mail-icon, showing numbers on it.
+![screen shot 2018-04-11 at 6 38 06 am](https://user-images.githubusercontent.com/19642027/38611901-0365b666-3d53-11e8-8f8b-0324509e6118.png)
+
+
 4/11 YouTube Video worked fun now! 
 
 ![screen shot 2018-04-11 at 6 27 25 am](https://user-images.githubusercontent.com/19642027/38611381-8335897c-3d51-11e8-9681-0597f9aec72a.png)
