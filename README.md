@@ -1,5 +1,7 @@
 #
 www.CUNYStudentPost.com
+4/12 new HOME page
+![screen shot 2018-04-12 at 8 17 28 pm](https://user-images.githubusercontent.com/19642027/38710456-9d57a55e-3e8e-11e8-8c39-5d2331342a53.png)
 
 4/11 msg come to mail-icon, showing numbers on it.
 ![screen shot 2018-04-11 at 6 38 06 am](https://user-images.githubusercontent.com/19642027/38611901-0365b666-3d53-11e8-8f8b-0324509e6118.png)
