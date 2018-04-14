@@ -1,5 +1,9 @@
 #
 www.CUNYStudentPost.com
+
+4/14, bigger size of attachments!!! Love it. ( i need a small title for it)
+![screen shot 2018-04-14 at 11 34 44 am](https://user-images.githubusercontent.com/19642027/38769861-daac7d7c-3fd7-11e8-80d3-336eb4c2bdd4.png)
+
 4/12 new HOME page
 ![screen shot 2018-04-12 at 8 17 28 pm](https://user-images.githubusercontent.com/19642027/38710456-9d57a55e-3e8e-11e8-8c39-5d2331342a53.png)
 
