@@ -1,6 +1,10 @@
 #
 www.CUNYStudentPost.com
 
+4/15 added social media icons with link. 
+![screen shot 2018-04-15 at 6 07 18 pm](https://user-images.githubusercontent.com/19642027/38783941-eb945ef6-40d7-11e8-8c58-a3c404b64e5a.png)
+
+
 4/15 
 1. Need to add a gallery, with all attachments, but not working well now. 
 2. Need to build a mobile version that user can swap menually.
