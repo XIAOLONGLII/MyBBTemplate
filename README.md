@@ -1,6 +1,13 @@
 #
 www.CUNYStudentPost.com
 
+4/15 
+1. Need to add a gallery, with all attachments, but not working well now. 
+2. Need to build a mobile version that user can swap menually.
+![screen shot 2018-04-15 at 12 50 38 am](https://user-images.githubusercontent.com/19642027/38775081-181eec98-4047-11e8-9ab2-2767e4355d57.png)
+![screen shot 2018-04-15 at 12 50 43 am](https://user-images.githubusercontent.com/19642027/38775082-1828862c-4047-11e8-93a9-d3176c0b9bec.png)
+
+
 4/14, bigger size of attachments!!! Love it. ( i need a small title for it)
 ![screen shot 2018-04-14 at 11 34 44 am](https://user-images.githubusercontent.com/19642027/38769861-daac7d7c-3fd7-11e8-80d3-336eb4c2bdd4.png)
 
