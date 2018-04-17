@@ -1,6 +1,10 @@
 #
 www.CUNYStudentPost.com
 
+4/16 first user! 
+
+![screen shot 2018-04-17 at 6 38 16 am](https://user-images.githubusercontent.com/19642027/38864836-f5182e52-4209-11e8-9ed4-c91d87ec4acb.png)
+
 4/15 added social media icons with link. 
 ![screen shot 2018-04-15 at 6 07 18 pm](https://user-images.githubusercontent.com/19642027/38783941-eb945ef6-40d7-11e8-8c58-a3c404b64e5a.png)
 
