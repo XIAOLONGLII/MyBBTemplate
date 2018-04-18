@@ -1,6 +1,14 @@
 #
 www.CUNYStudentPost.com
 
+4/18
+
+Show Last poster avatar!!
+
+![screen shot 2018-04-18 at 6 57 08 am](https://user-images.githubusercontent.com/19642027/38928111-cc019176-42d5-11e8-8c46-e1f2c24c638f.png)
+![screen shot 2018-04-18 at 6 57 22 am](https://user-images.githubusercontent.com/19642027/38928113-cc0c5ec6-42d5-11e8-80bf-5ae41915498a.png)
+
+
 4/16 first user! 
 
 ![screen shot 2018-04-17 at 6 38 16 am](https://user-images.githubusercontent.com/19642027/38864836-f5182e52-4209-11e8-9ed4-c91d87ec4acb.png)
