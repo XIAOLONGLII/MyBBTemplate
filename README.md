@@ -1,5 +1,9 @@
 #
 www.CUNYStudentPost.com
+4/19 new logo
+
+![screen shot 2018-04-19 at 6 55 48 pm](https://user-images.githubusercontent.com/19642027/39022382-4ffa75d2-4403-11e8-8f72-4c47d3c18e18.png)
+
 
 4/18
 
