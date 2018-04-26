@@ -1,5 +1,9 @@
 #
 www.CUNYStudentPost.com
+
+4/26 Video Gallery 
+![screen shot 2018-04-26 at 11 39 01 am](https://user-images.githubusercontent.com/19642027/39316238-9c9a7e4e-4946-11e8-804a-83a0bcba0d4b.png)
+
 4 / 24 Added Gallery! (Xthread) 
 
 ![screen shot 2018-04-24 at 11 51 15 am](https://user-images.githubusercontent.com/19642027/39198759-dbe34410-47b5-11e8-9714-7110496af235.png)
