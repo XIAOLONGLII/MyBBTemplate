@@ -1,6 +1,11 @@
 #
 www.CUNYStudentPost.com
 
+4/28
+two more new members 
+![screen shot 2018-04-28 at 12 10 42 pm](https://user-images.githubusercontent.com/19642027/39398533-3ba242a0-4add-11e8-8290-622641edca8b.png)
+
+
 4/26 Video Gallery 
 ![screen shot 2018-04-26 at 11 39 01 am](https://user-images.githubusercontent.com/19642027/39316238-9c9a7e4e-4946-11e8-804a-83a0bcba0d4b.png)
 
