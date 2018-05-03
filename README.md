@@ -1,6 +1,10 @@
 #
 www.CUNYStudentPost.com
 
+5/3
+<img width="1445" alt="screen shot 2018-05-03 at 2 56 14 pm" src="https://user-images.githubusercontent.com/19642027/39597026-309b0258-4ee2-11e8-9827-06d0b4db5658.png">
+
+
 4/28
 two more new members 
 ![screen shot 2018-04-28 at 12 10 42 pm](https://user-images.githubusercontent.com/19642027/39398533-3ba242a0-4add-11e8-8290-622641edca8b.png)
