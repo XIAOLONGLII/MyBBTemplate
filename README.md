@@ -1,6 +1,12 @@
 #
 www.CUNYStudentPost.com
 
+5/13 Chat room!!!Shoutout box
+
+
+![screen shot 2018-05-13 at 7 24 24 pm](https://user-images.githubusercontent.com/19642027/39972738-4d87ff5c-56e3-11e8-8fc2-d75d2b0a6b33.png)
+
+
 5/6  new members 
 ![screen shot 2018-05-06 at 2 41 27 pm](https://user-images.githubusercontent.com/19642027/39676607-a2af6888-513b-11e8-94de-61f9a7ab5543.png)
 
