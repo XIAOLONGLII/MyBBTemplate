@@ -1,5 +1,9 @@
 #
 www.CUNYStudentPost.com
+5/16 10 users online 
+
+![screen shot 2018-05-16 at 6 45 04 am](https://user-images.githubusercontent.com/19642027/40112638-b31db634-58d4-11e8-91ec-74ab12b95926.png)
+
 
 5/15 bigger font
 <img width="1583" alt="screen shot 2018-05-15 at 9 45 49 am" src="https://user-images.githubusercontent.com/19642027/40060501-c70cd84c-5824-11e8-8889-b29047dead5c.png">
