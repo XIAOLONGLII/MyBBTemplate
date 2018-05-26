@@ -1,5 +1,9 @@
 #
 www.CUNYStudentPost.com
+5/25 
+
+![screen shot 2018-05-25 at 8 27 38 pm](https://user-images.githubusercontent.com/19642027/40570559-1b77a410-605a-11e8-84b7-eb99630deef4.png)
+
 5/23
 ![screen shot 2018-05-22 at 9 31 43 pm](https://user-images.githubusercontent.com/19642027/40420149-61a90750-5e55-11e8-93b0-93df399c67b9.png)
 
